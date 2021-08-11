@@ -1,0 +1,102 @@
+Sentence,Response
+You can eat a banana.,Yes
+A dog can fly.,No
+Cats have five legs.,No
+A shoe goes on your foot.,Yes
+An iPad has a screen.,Yes
+A bird has arms.,No
+The number '5' is a letter.,No
+A circle is round.,Yes
+Birds can lay eggs.,Yes
+People hear with their ears.,Yes
+A car floats on water.,No
+Many children like to play games.,Yes
+Sometimes the moon is purple.,No
+Elephants are big.,Yes
+Poop can be stinky.,Yes
+A kitten is a baby horse.,No
+The sea has a lot of water.,Yes
+The letter 'B' is the last letter of the alphabet.,No
+A airplane flies in the sky.,Yes
+A fork can be used for eating,Yes
+People can see cartoons on a television.,Yes
+A crayon can be used for drawing.,Yes
+Ants are big animals.,No
+A cow has four legs.,Yes
+A child can wear shorts.,Yes
+Some trees grow fruits.,Yes
+People like to write with a spoon.,No
+Games can be played on a computer.,Yes
+October is the month after January.,No
+A lock can be opened with a key.,Yes
+People can turn lights on with a button.,Yes
+Some ships have a sail.,Yes
+A bike has wheels.,Yes
+Classrooms are always filled with water.,No
+A pot can be empty,Yes
+People dial a number to phone someone.,Yes
+'D' is a letter of the alphabet.,Yes
+A cow can eat grass.,Yes
+Nobody wears a coat in cold weather.,No
+A glass can be made from shoe laces.,No
+A child may like candy.,Yes
+Dogs can walk on the ceiling.,No
+Bees eat salmon from the river.,No
+It can be cold inside a freezer.,Yes
+Tuesday is the first month of the year.,No
+All crabs have three legs.,No
+Many eagles wear bathing suits.,No
+Bread can be used to make sandwiches.,Yes
+A painting can be hung on a wall.,Yes
+Most people laugh when they are angry.,No
+People should not eat yellow snow.,Yes
+Children often go to space.,No
+Some people write books.,Yes
+Most grass is green.,Yes
+A bath can hold water.,Yes
+Fish tend to live on land.,No
+All dogs wear socks and shoes.,No
+Some people wear boots in the rain.,Yes
+Some children like reading.,Yes
+Every person has a different name.,No
+Most people sleep in trees.,No
+Most bears ride airplanes to work.,No
+A spoon is needed to tell the time.,No
+A giant is much smaller than a dwarf.,No
+Different plants can grow in a garden.,Yes
+Some people like to walk through the park.,Yes
+The number '1' is the biggest number.,No
+Orange juice can be served in a glass for breakfast.,Yes
+A letter with a stamp cannot be posted.,No
+Cats can eat with their mouths.,Yes
+A dog usually spends money on art supplies.,No
+People usually sleep on their roof.,No
+Ants are bigger than cats.,No
+All horse breeds are of the same height and weight.,No
+Bread rolls can be served at lunch and at dinner.,Yes
+Many trees grow hair on their branches.,No
+Most schools have several classrooms.,Yes
+A chicken meows like a cat.,No
+Traffic lights always have purple and yellow lights.,No
+A carpenter can use a saw and a hammer.,Yes
+The job of a painter is to help you buy groceries.,No
+An elephant is very light.,No
+A sailor works on a boat.,Yes
+Some people play games on their computer.,Yes
+An electrician can fix a broken doorbell.,Yes
+A light bulb belongs in the toilet bowl.,No
+A cupboard can be used to house your parents.,No
+All chocolate tastes very sour.,No
+A television can be used to watch cartoons.,Yes
+Some trees lose their leaves in winter.,Yes
+Telephones can be used to grate cheese.,No
+Dinosaur bones fall from the sky on Saturdays.,No
+A teacher can work at a school.,Yes
+Some people enjoy reading an interesting book.,Yes
+You can see tigers at some zoos.,Yes
+Many bankers wear suits and ties.,Yes
+Magazines are printed on knives and forks.,No
+Fish and sharks live under water.,Yes
+Horses only ever eat pigeons.,No
+Cats lay eggs.,No
+Professors work at universities.,Yes
